@@ -1,8 +1,9 @@
 import { StyleSheet, Text, View } from "react-native";
-import manHinh1 from "./component/manHinh1.js";
+import manHinh02 from "./component/manHinh02.js";
+import manHinh01 from "./component/manHinh01.js";
 
 export default function App() {
-  return manHinh1();
+  return manHinh02();
 }
 
 const styles = StyleSheet.create({
